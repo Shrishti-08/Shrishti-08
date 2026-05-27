@@ -1,9 +1,9 @@
 👋 Hi, I'm Shrishti Singh
-Associate Quality Engineer II · M.Tech Data Science (BITS Pilani) · Aspiring AI/ML Engineer
+Associate Quality Engineer II · M.Tech Data Science (BITS Pilani) · Aspiring Data Science & AI/ML Engineer
 
 🎓 M.Tech DS — BITS Pilani
 🏢 Associate QE II
-🤖 AI/ML Enthusiast
+🤖 Data Science & AI/ML Enthusiast
 📍 India
 
 ## 🙋 About Me
